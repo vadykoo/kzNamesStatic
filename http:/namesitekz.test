@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="kz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>    Namely - Сіздің қазақша есіміңіз, танымалдығы, статистика, блоггерлер
+</title>
+    <meta name="description" content="    Ескі қазақша есімдер әліпби бойынша, ұмыт қалған ежелгі есімдер, қыздарға арналған танымал есімдер және ұлдарға арналған батыл есімдер. Қазақ халқының бай мұрасымен үйлесімді есімді таңдаңыз.
+" />
+
+    <!-- Hreflang links for SEO -->
+    <link rel="alternate" hreflang="kz" href="https://kz.thenamely.com/" />
+    
+    <link rel="shortcut icon" href="https://kz.thenamely.com/name/images/logo.png">
+    <link rel="stylesheet" href="https://kz.thenamely.com/css/all.css">
+    <link rel="stylesheet" href="https://kz.thenamely.com/css/app.css" fetchpriority="high">
+
+    <link rel="preload" href="https://kz.thenamely.com/name/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="prefetch" href="https://fonts.googleapis.com/css?family=Nunito">
+    <link rel="prefetch" href="https://fonts.googleapis.com/css?family=Dosis:400,500,600,700">
+    <link rel="prefetch" href="https://fonts.googleapis.com/css?family=Dosis:400,500,600,700">
+    <link rel="prefetch" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700">
+    
+        
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4H9TB7RDCG" defer></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4H9TB7RDCG');
+    </script>
+    
+
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8233672163654834"
+     crossorigin="anonymous"></script>
+    
+
+</head>
+<body>
+<!-- Navbar Part Start -->
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <div class="container p-0">
+        <a class="navbar-brand" href="https://kz.thenamely.com/">
+            <div class="d-flex align-items-center header-logo">
+                <img src="https://kz.thenamely.com/name/images/logo.png" class="img-fluid" alt="Namely logo" fetchpriority="high">
+            </div>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/blog">Блог</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="https://kz.thenamely.com/boys/">Ұлдардың есімдері <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="https://kz.thenamely.com/girls/">Қыздардың есімдері</a>
+                </li>
+            </ul>
+            <div class="login">
+                
+                                    
+
+                <div class="language-selector">
+                                    </div>
+            </div>
+            <!-- <form class="form-inline my-2 my-lg-0">
+                <input class="form-control" type="search" placeholder="Search Name" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit"><i class="fa fa-search"></i></button>
+            </form> -->
+        </div>
+        <div id="app-favorite-list" class="ml-auto">
+            <favorites-icon ></favorites-icon>
+        </div>
+    </div>
+</nav>
+<!-- Navbar Part End -->
+    <!-- Banner Part Start -->
+    <section id="banner">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-xs-12 text-center ml-auto">
+                    <div class="banner-text">
+                        <h3>Мағынасы бар атауды іздеу</h3>
+                        <div class="search-name">
+                            
+                            <div class="which-name">
+                                <a href="https://kz.thenamely.com/boys/">Ұлдардың есімдері</a>
+                                <a href="https://kz.thenamely.com/girls/">Қыздардың есімдері</a>
+                                
+
+                            </div>
+                            <div class="data-summary mt-3 pt-4">
+                                <p class="font-weight-bold">Барлық есімдер: <span class="badge badge-warning">95168</span></p>
+                                <p class="font-weight-bold">Танымал тұлғалар: <span class="badge badge-success">0</span></p>
+                                <p class="font-weight-bold">Аты бар әндер: <span class="badge badge-info">2952</span></p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Banner Part End -->
+
+    <!-- Alphabitacally Search start -->
+    <section id="alpha-search">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="heading">
+                        <h2>Әріптік іздеу</h2>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="col-6 names-by-letter mx-auto">
+                        <span>Ұлдардың есімдері: </span>
+                        <div class="pagination1 justify-content-center">
+            <div class="names-by-letter mx-auto">
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%90/">А</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D3%98/">Ә</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%91/">Б</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%92/">В</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D2%92/">Ғ</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%94/">Д</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%95/">Е</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%96/">Ж</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%97/">З</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%98/">И</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%86/">І</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%9A/">К</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D2%9A/">Қ</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%9B/">Л</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%9C/">М</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%9D/">Н</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%9E/">О</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D3%A8/">Ө</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%9F/">П</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A0/">Р</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A1/">С</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A2/">Т</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A3/">У</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D2%AE/">Ү</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D2%B0/">Ұ</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A4/">Ф</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A5/">Х</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A6/">Ц</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%A8/">Ш</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%AB/">Ы</a>
+                            <a class="" href="https://kz.thenamely.com/boys/alphabate/%D0%AD/">Э</a>
+                    </div>
+    </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="col-6 names-by-letter mx-auto">
+                        <span>Қыздардың есімдері: </span>
+                        <div class="pagination1 justify-content-center">
+            <div class="names-by-letter mx-auto">
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%90/">А</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D3%98/">Ә</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%91/">Б</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%92/">В</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D2%92/">Ғ</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%94/">Д</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%95/">Е</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%96/">Ж</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%97/">З</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%98/">И</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%86/">І</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%9A/">К</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D2%9A/">Қ</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%9B/">Л</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%9C/">М</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%9D/">Н</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%9E/">О</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D3%A8/">Ө</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%9F/">П</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A0/">Р</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A1/">С</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A2/">Т</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A3/">У</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D2%AE/">Ү</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D2%B0/">Ұ</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A4/">Ф</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A5/">Х</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A6/">Ц</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%A8/">Ш</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%AB/">Ы</a>
+                            <a class="" href="https://kz.thenamely.com/girls/alphabate/%D0%AD/">Э</a>
+                    </div>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container mt-5 seo-text">
+        <div class="row">
+            <div class="col-12">
+                <section class="mt-5">
+                    <p class="lead">Адам есімдерінің ерекше тарихы – ең ежелгі әрі қадірлі жеке атаулардың бірі. Адамзат тарихының таңында олар тұлғаның қоғамда ерекшеленуі мен заңдастырылуы құралы ретінде пайда болды.</p>
+                </section>
+
+                <div class="container" style="background-color: #7974b3">
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <div class="embed-responsive embed-responsive-16by9 mt-4 mb-4">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/31lGjDsZ224" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="embed-responsive embed-responsive-16by9 mt-4 mb-4">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ajl958Ynz-c" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <section class="mt-5">
+                    <h2>Жеке есімдердің тарихы</h2>
+                    <p>
+                        Біздің сайт қазақ халқының және олардың ата-бабаларының жеке есімдерінің тарихын қолжетімді түрде баяндайды, әсіресе қазақ дәстүрлі есімдеріне басымдық беріледі. Біз ежелгі қазақ есімдерін олардың семантикасы мен морфемдік құрылымын ескере отырып ашамыз.
+                    </p>
+                </section>
+
+                <section class="mt-5">
+                    <h2>
+                        Белгілі тұлғалар
+                    </h2>
+                    <p>
+                        Біздің сайтта блоггерлер, саяси қайраткерлер және қазіргі заманның батырлары сияқты белгілі тұлғалар туралы ақпараттар бар. Олардың есімдері сізді шабыттандырып, балаңызға немесе немереңізге лайық есім таңдауға көмектеседі.
+                    </p>
+                </section>
+
+                <section class="mt-5">
+                    <h2>
+                        Толық талдау және сипаттама
+                    </h2>
+                    <p>
+                        Қазақ есімдерінің семантикасы мен морфемдік құрылымы туралы толық ақпарат және олардың тарихи дәстүрлерін талдау сізге қазақ есімдерінің байлығы мен әсемдігін түсінуге көмектеседі.
+                    </p>
+                </section>
+            </div>
+        </div>
+    </section>
+
+    <!-- Alphabitacally Search end -->
+
+    <!-- Name blogs start -->
+    <script>
+    function displayPopupMessage(message) {
+        // Implement the code to display the popup message
+        // Example: $('#popup').text(message).show();
+        // Example implementation:
+        if (document.getElementById('popup')) {
+            document.getElementById('popup').textContent = message;
+            document.getElementById('popup').style.color = 'red';
+            document.getElementById('popup').style.display = 'block';
+        }
+    }
+
+        if (document.getElementById('random-boy-name') && document.getElementById('random-girl-name')) {
+            document.getElementById('random-boy-name').removeEventListener('click', function() {
+                fetch("https://kz.thenamely.com/random-boy-name/")
+                    .then(response => response.json())
+                    .then(data => {
+                        displayPopupMessage(data);
+                    });
+            });
+
+            document.getElementById('random-girl-name').removeEventListener('click', function() {
+                fetch("https://kz.thenamely.com/random-girl-name/")
+                    .then(response => response.json())
+                    .then(data => {
+                        displayPopupMessage(data);
+                    });
+            });
+
+            document.getElementById('random-boy-name').addEventListener('click', function() {
+                fetch("https://kz.thenamely.com/random-boy-name/")
+                    .then(response => response.json())
+                    .then(data => {
+                        displayPopupMessage(data);
+                    });
+            });
+
+            document.getElementById('random-girl-name').addEventListener('click', function() {
+                fetch("https://kz.thenamely.com/random-girl-name/")
+                    .then(response => response.json())
+                    .then(data => {
+                        displayPopupMessage(data);
+                    });
+            });
+        }
+    </script>
+
+<style>
+    h2, .seo-text,
+    .lead {
+        color: rgb(189, 73, 147) !important;
+    }
+</style>
+
+<!-- Footer part start -->
+<section id="footer">
+   <div class="container ">
+       <div class="row">
+           <div class="col-12">
+               <div class="row">
+                   <div class="col-3">
+                       <div class="footer-logo">
+                           <a href="/"><img src="https://kz.thenamely.com/name/images/logo.png" alt="footer-logo" class="img-fluid"></a>
+                           
+                       </div>
+                   </div>
+                   
+                   
+                   <div class="col-3">
+                       <div class="footer-item">
+                                                                       </div>
+                   </div>
+                   <div class="col-2">
+                       <div class="footer-item">
+                           
+                           <div class="links extra-class">
+                               
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</section>
+<!-- Footer part end -->
+
+<!-- Footer bottom part start -->
+<section id="footer-btm">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 footer-bottom-text text-center">
+                <p>Қош келдіңіздер! Біздің сайттан сіздер қазақ есімдерінің ерекше әлемін және олардың терең тарихын таба аласыздар!</p>
+
+                <p>Copyright &copy 2024. All rights reserved.                                <a href="/privacy">Privacy policy</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Footer bottom part end -->
+
+
+<script src="https://kz.thenamely.com/js/manifest.js" fetchpriority="low" defer></script>
+<script src="https://kz.thenamely.com/js/vendor.js" fetchpriority="low" defer></script>
+<script src="https://kz.thenamely.com/js/app.js" fetchpriority="low" defer></script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const lazyImages = document.querySelectorAll('img[loading="lazy"]');
+        const imageObserver = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                    const lazyImage = entry.target;
+                    lazyImage.src = lazyImage.dataset.src;
+                    lazyImage.onload = function() {
+                        lazyImage.removeAttribute("data-src");
+                        lazyImage.removeAttribute("loading");
+                    };
+                    observer.unobserve(lazyImage);
+                }
+            });
+        });
+
+        lazyImages.forEach(function(lazyImage) {
+            imageObserver.observe(lazyImage);
+        });
+    });
+</script>
+
+    <script>//not scalable for mobile with js
+        document.addEventListener('DOMContentLoaded', function() {
+            if (window.innerWidth <= 768) { // Adjust the width threshold as needed
+                var viewportMetaTag = document.querySelector('meta[name="viewport"]');
+                if (viewportMetaTag) {
+                    viewportMetaTag.setAttribute('content', 'width=device-width, user-scalable=no');
+                } else {
+                    var newViewportMetaTag = document.createElement('meta');
+                    newViewportMetaTag.name = 'viewport';
+                    newViewportMetaTag.content = 'width=device-width, user-scalable=no';
+                    document.head.appendChild(newViewportMetaTag);
+                }
+            }
+        });
+    </script>
+<style>
+    .navbar-brand {
+        display: flex;
+        align-items: center;
+    }
+
+    .navbar-brand img {
+        margin-right: 10px; /* Adjust this margin based on your preference */
+    }
+
+    .logo-text {
+        color: rgb(255, 255, 255); /* Change the color to your desired purple shade */
+        font-style: italic;
+        display: block;
+    }
+</style>
+
+</body>
+</html>
